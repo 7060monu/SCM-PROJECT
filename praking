@@ -4,7 +4,7 @@ int Menu();
 void Bus();
 void BiCycle();
 void Riksha();
-void Delete();
+
 void ShowDetail();
 int nor=0,nob=0,noc=0,amount=0,count=0;
 void main()
